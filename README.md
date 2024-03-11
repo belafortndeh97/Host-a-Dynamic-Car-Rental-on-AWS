@@ -7,7 +7,7 @@ This project involves deploying a dynamic car rental application on AWS, utilizi
 
 ## Architecture Overview
 
-![Architecture Diagram](link-to-your-diagram)
+![Alt text](Reference_architecture_to_host_dynamic_website_on_aws.jpg)
 
 1. **Virtual Private Cloud (VPC) Configuration**
    - Configured a VPC with public and private subnets across two availability zones for enhanced reliability.
